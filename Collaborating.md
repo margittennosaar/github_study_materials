@@ -45,3 +45,5 @@
     - push your new branch
     - in GitHub, review the code and if all good, merge it
     - delete branch
+
+Checklist is written based on [The Net Ninja tutorial](https://www.youtube.com/watch?v=MnUd31TvBoU)
