@@ -1,4 +1,4 @@
-#Collaborating on GitHub
+# Collaborating on GitHub
 
 1. **Clone** project you want to work with
 
