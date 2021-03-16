@@ -26,13 +26,19 @@
 
 7. On remote repo (GitHub page), you have now one pushed branches. The next step is to **compare changes and pull request** for merge changes to main.
 
+    ![GitHub merged](/assets/pull_request.png)
+
 8. Write comments if needed and **create pull request**. 
 
-9. You can specify **reviewer** to send a notification to them for checking your code. 
+    ![GitHub merged](/assets/open_pull_request.png)
 
-10. If there are no conflicts, you can easily **merge pull request**.
+9. You can specify **reviewer** to send a notification to them for checking your code. If there are no conflicts, you can easily **merge pull request**.
+
+    ![GitHub merge pull request](/assets/merge_pull_request.png)
 
 11. After the merge, you can **delete your branch**. 
+
+    ![GitHub merged](/assets/merged.png)
 
 12. When you continue to contribute to this project, start over from step 2. 
 
