@@ -2,9 +2,9 @@
 
 If you do not have GitHub account yet then create it first - [GitHub signup](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
-- [Steps with README file](#sub-heading)
-- [Steps without README file](#sub-heading-1)
-- [Everyday workflow with GitHub](#sub-heading-2)
+- [Steps with README file](#steps-creating-repo-with-readme-file)
+- [Steps without README file](#steps-creating-repo-without-readme-file)
+- [Everyday workflow with GitHub](#everyday-work-with-github)
 
 
 
