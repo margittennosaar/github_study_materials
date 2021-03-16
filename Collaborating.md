@@ -35,6 +35,8 @@
 11. After the merge, you can **delete your branch**. 
 
 12. When you continue to contribute to this project, start over from step 2. 
+
+    In a nutshell: 
     - checkout main to be in the right branch
     - pull main
     - create and switch to a new branch
