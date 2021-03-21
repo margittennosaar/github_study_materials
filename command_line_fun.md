@@ -4,7 +4,7 @@
 
 ### Command Line Heroes: bash
 
-Cool game where you have type as fast you can as many commands you know. Ready for challenge? [Command Line Heroes: BASH](https://www.redhat.com/en/command-line-heroes/bash/index.html?extIdCarryOver=true&sc_cid=701f2000001OH79AAG)
+An excellent game where you have to type as fast you can, as many commands you know. Ready for the challenge? [Command Line Heroes: BASH](https://www.redhat.com/en/command-line-heroes/bash/index.html?extIdCarryOver=true&sc_cid=701f2000001OH79AAG)
 
 ### Bashcrawl
 
@@ -12,11 +12,11 @@ A Bash-based dungeon crawl you play by learning and using Bash commands. [Bashcr
 
 ### Terminus
 
-Terminus: A text adventure game to promote learning about terminal command line interfaces [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+Terminus: A text adventure game to promote learning about terminal command-line interfaces [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
-### The Command Line Murders
+### The Command-Line Murders
 
-There's been a murder in Terminal City, and TCPD needs your help. You are a detective to solve a mystery case by following the given instructions in the game. [The Command Line Murders](https://github.com/veltman/clmystery)
+There's been a murder in Terminal City, and TCPD needs your help. You are a detective to solve a mystery case by following the given instructions in the game. [The Command-Line Murders](https://github.com/veltman/clmystery)
 
 ### Build with Bash Minesweeper game
 

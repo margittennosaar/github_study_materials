@@ -10,14 +10,15 @@ In this repo, you find help material about GitHub I have made for my students. I
 
 - [Command line basics](commandline_basics.md)
 - [Git commands you should know](git_command_line.md)
+- [Command line Fun](command_line_fun.md)
 - [Initiating new repository](github_beginning.md)
 - [Collaboration in GitHub repo](github_collaborating.md) (clone, make branch, pull request and merge)
 
 ## Glossary
 
-- **git**: an open source, distributed version-control system
+- **git**: an open-source, distributed version control system
 - **GitHub**: a platform for hosting and collaborating on Git repositories
-- **commit**: a Git object, a snapshot of your entire repository compressed into a SHA (a unique commitID (a.k.a. the "SHA" or "hash"))
+- **commit**: a Git object, a snapshot of your entire repository compressed into an SHA (a unique commitID (a.k.a. the "SHA" or "hash"))
 - **branch**: a "branch" is a line of development. A pointer to a commit
 - **clone**: a local version of a repository, including all commits and branches
 - **remote**: a common repository on GitHub that all team members use to exchange their changes

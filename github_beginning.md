@@ -1,6 +1,6 @@
 # Beginning with GitHub
 
-If you do not have GitHub account yet then create it first - [GitHub signup](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
+If you do not have a GitHub account yet, then create it first - [GitHub signup](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home).
 
 - [Steps with README file](#steps-creating-repo-with-readme-file)
 - [Steps without README file](#steps-creating-repo-without-readme-file)
@@ -10,7 +10,7 @@ If you do not have GitHub account yet then create it first - [GitHub signup](htt
 
 1.  Create [a new repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) in GitHub.
 
-2.  Using terminal or another command-line tool, create a new folder to your project, in a location you want.
+2.  Using terminal or another command-line tool, create a new folder to your project in a location you want.
 
         mkdir your_project_name
 
@@ -56,7 +56,7 @@ If you do not have GitHub account yet then create it first - [GitHub signup](htt
 
 1.  Create [a new repository](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) in GitHub.
 
-2.  Using terminal or another command-line tool, create a new folder to your project, in a location you want.
+2.  Using terminal or another command-line tool, create a new folder to your project in a location you want.
 
         mkdir your_project_name
 
@@ -68,7 +68,7 @@ If you do not have GitHub account yet then create it first - [GitHub signup](htt
 
         git init
 
-5.  Add README file
+5.  Add a README file
 
         echo "# Project title" >> README.md
 

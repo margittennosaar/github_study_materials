@@ -1,8 +1,8 @@
-# Get to know command line
+# Get to know the command line
 
 ## What it is?
 
-CLI is a command line program that accepts text input to execute operating system functions. Nowadays, with **graphical user interfaces** (GUI), most users never use **command-line interfaces** (CLI).
+CLI is a command-line program that accepts text input to execute operating system functions. Nowadays, with **graphical user interfaces** (GUI), most users never use **command-line interfaces** (CLI).
 
 CLI stands for:
 
@@ -45,7 +45,7 @@ CLI stands for:
 | Command         | Description                          |
 | --------------- | ------------------------------------ |
 | `clear`         | clears the CLI window                |
-| `exit`          | closes the CLI window                |
+| `exit`          | close the CLI window                 |
 | `man _command_` | Shows the manual for a given command |
 
 ## Basic Windows CLI commands
@@ -81,5 +81,5 @@ CLI stands for:
 | Command            | Description                          |
 | ------------------ | ------------------------------------ |
 | `cls`              | clears the CLI window                |
-| `exit`             | closes the CLI window                |
+| `exit`             | close the CLI window                 |
 | `help `_`command`_ | Shows the manual for a given command |
