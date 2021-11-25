@@ -1,6 +1,6 @@
 # GitHub study materials
 
-In this repo, you find help material about GitHub I have made for my students. I will update the content of this repository based on needs.
+In this repo, you find help material about GitHub I collected for Business College Helsinki Full-Stack Developer program students. Content will be updated based on need.
 
 ## Installation
 
