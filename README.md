@@ -1,6 +1,6 @@
 # GitHub study materials
 
-In this repo, you find help material about GitHub I collected for Business College Helsinki Full-Stack Developer program students. Content will be updated based on need.
+In this repo, you find help material about GitHub I collected for Business College Helsinki Full-Stack Developer program students.
 
 ## Installation
 
@@ -13,6 +13,7 @@ In this repo, you find help material about GitHub I collected for Business Colle
 - [Command line Fun](command_line_fun.md)
 - [Initiating new repository](github_beginning.md)
 - [Collaboration in GitHub repo](github_collaborating.md) (clone, make branch, pull request and merge)
+- [Github profile README](github_profile.md)
 
 ## Glossary
 
